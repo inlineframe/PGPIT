@@ -104,8 +104,9 @@ header .logo h2 {
 
 header .logo h2 span {
 	display: inline-block;
-	width: 8px; height: 23px;
-	background: #ffef2e;
+	width: 76px; height: 106px;
+	background-image: url(img/p-logo.png);
+	background-repeat: no-repeat;
 	margin-right: 5px;
 }
 

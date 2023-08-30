@@ -206,7 +206,7 @@ header nav ul li a.active {
 	box-shadow: 0 0 5px #0052b5, 0 0 15px #033877;
 }
 
-.hero .extenssion {
+.hero .bubble {
 	background: #0059c5;
 	padding: 10px;
 	border-radius: 8px;
@@ -215,19 +215,19 @@ header nav ul li a.active {
 	bottom: 50px;
 }
 
-.hero .extenssion .box {
+.hero .bubble .box {
 	display: flex;
 	align-items: center;
 	justify-content: flex-start;
 }
 
-.hero .extenssion p {
+.hero .bubble p {
 	font-weight: 500;
 	margin-right: 60px;
 	position: relative;
 }
 
-.hero .extenssion p:after {
+.hero .bubble p:after {
 	content: "";
 	width: 30px;
 	height: 2px;
@@ -238,7 +238,7 @@ header nav ul li a.active {
 	right: -49px;
 }
 
-.hero .extenssion .browsers img {
+.hero .bubble .browsers img {
 	display: inline-block;
 	width: 25px;
 	height: auto;
